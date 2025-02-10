@@ -12,4 +12,5 @@ This is an AI chatbot built using **Streamlit** and **Google Gemini API**.
    ```bash
    git clone https://github.com/your-username/ai-chatbot.git
    cd ai-chatbot
- 
+##Chat
+Health Chatbot 💬.pdf

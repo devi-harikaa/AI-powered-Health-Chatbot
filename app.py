@@ -8,7 +8,7 @@ st.title("AI Chatbot 🤖 (Powered by Google Gemini)")
 st.write("Ask me anything!")
 
 # Load API key (from Streamlit secrets)
-genai.configure(api_key=st.secrets["
+genai.configure(api_key=st.secrets["gemini api key")
 
 # Initialize chat history
 if "messages" not in st.session_state:

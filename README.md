@@ -16,6 +16,4 @@ This is an AI chatbot built using **Streamlit** and **Google Gemini API**.
 ## 📄 Documentation
 [📂 Download Health Chatbot Docs](Health Chatbot 💬.pdf)
 
-![Alt Text](image/Screenshot(37).png)
-
 

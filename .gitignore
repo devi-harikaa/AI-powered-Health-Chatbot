@@ -1,0 +1,11 @@
+# Ignore virtual environments
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.DS_Store
+
+# Ignore Streamlit secrets
+.secrets.toml
+ 
